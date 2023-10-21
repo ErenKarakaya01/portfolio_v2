@@ -12,14 +12,14 @@ function AboutCard() {
             from <span className="purple"> Istanbul, Turkey.</span>
             <br /> I am a final year student pursuing Computer Engineering at Eskisehir Technical University.
             <br />
-            Additionally, I am currently employed as a software developer at ...
+            Additionally, I have been in Poland for 1 year as an Erasmus student.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Chess
             </li>
             <li className="about-activity">
               <ImPointRight /> Volleyball

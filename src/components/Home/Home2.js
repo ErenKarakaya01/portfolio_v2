@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Javascript, Dart and Java. </b>
+                <b className="purple"> Asp.Net, React and Node.js. </b>
               </i>
               <br />
               <br />
@@ -33,13 +33,13 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Mobile Applications.
+                  Cloud Infrastructure, Cloud Security and Cloud Computing.
                 </b>
               </i>
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              with <b className="purple">Asp.Net</b> and
               <i>
                 <b className="purple">
                   {" "}

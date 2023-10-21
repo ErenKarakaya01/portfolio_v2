@@ -9,6 +9,7 @@ import portfolio from "../../Assets/Projects/portfolio.png";
 import chat from "../../Assets/Projects/chat.png";
 import run from "../../Assets/Projects/run.png";
 import pokemon from "../../Assets/Projects/pokemon.png";
+import microservice from "../../Assets/Projects/microservice.png";
 
 function Projects() {
   return (
@@ -22,6 +23,16 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={microservice}
+              isBlog={false}
+              title="Microservice Implementation"
+              description="The project covers various aspects of software development, including microservices architecture, Docker and Kubernetes deployment, database management, asynchronous messaging with RabbitMQ, and gRPC implementation."
+              ghLink="https://github.com/ErenKarakaya01/ASP.NET-Microservices"
+            />
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={run}
