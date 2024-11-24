@@ -39,16 +39,16 @@ function Home2() {
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Asp.Net</b> and
+              with <b className="purple">React Native</b> and
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  Modern Backend Frameworks
                 </b>
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> Spring Boot and ASP.NET</b>
               </i>
             </p>
           </Col>

@@ -9,10 +9,10 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Eren Karakaya </span>
-            from <span className="purple"> Istanbul, Turkey.</span>
-            <br /> I am a final year student pursuing Computer Engineering at Eskisehir Technical University.
+            from <span className="purple"> Aydın, Turkey.</span>
+            <br /> I am a computer engineer specialized in web development.
             <br />
-            Additionally, I have been in Poland for 1 year as an Erasmus student.
+            Additionally, I'm deep diving into frontend development mainly React.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

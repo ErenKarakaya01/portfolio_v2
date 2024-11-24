@@ -25,6 +25,39 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={gezilerimiz}
+              isBlog={false}
+              title="Gezilerimiz"
+              description="Gezilerimiz is a React-based web application built to showcase travel experiences and stories. This app utilizes Firebase for user authentication, Redux for state management, and various other technologies to bring together a seamless blogging experience. This app was created for my cousin."
+              ghLink="https://github.com/ErenKarakaya01/blog-web"
+              demoLink="https://sprinkaiblog.herokuapp.com"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={stock}
+              isBlog={false}
+              title="Stock Beyaz"
+              description="Hi, I'm Eren and I study at Eskisehir Technical University as a Computer Science 2. grade student. I made a stock image web app using Next.js and Node.js! This web app was my Database Management course project."
+              ghLink="https://github.com/ErenKarakaya01/Stock-Image"
+              demoLink="https://docs.google.com/document/d/11p1MqcJPWb6NNR81f0Fl7lCVIuMboMO0sh7YdYZrkl0/edit?tab=t.0"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={chat}
+              isBlog={false}
+              title="Chat App"
+              description="A realtime chat app called SprinkaiChat with MERN Stack. I made this site to improve my coding skills. I used MongoDB technologies and MongoDB Atlas. To use my app just create an account, log in, join a room and chat with other people!"
+              ghLink="https://github.com/ErenKarakaya01/ChatApp"
+              demoLink="https://sprinkaichat.herokuapp.com"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={microservice}
               isBlog={false}
               title="Microservice Implementation"
@@ -65,45 +98,12 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={gezilerimiz}
-              isBlog={false}
-              title="Gezilerimiz"
-              description="Gezilerimiz is a React-based web application built to showcase travel experiences and stories. This app utilizes Firebase for user authentication, Redux for state management, and various other technologies to bring together a seamless blogging experience. This app was created for my cousin."
-              ghLink="https://github.com/ErenKarakaya01/blog-web"
-              demoLink="http://www.gezilerimiz.com/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={stock}
-              isBlog={false}
-              title="Stock Beyaz"
-              description="Hi, I'm Eren and I study at Eskisehir Technical University as a Computer Science 2. grade student. I made a stock image web app using Next.js and Node.js! This web app was my Database Management course project."
-              ghLink="https://github.com/ErenKarakaya01/Stock-Image"
-              demoLink="https://sprinkaistockbeyaz.herokuapp.com/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
               imgPath={portfolio}
               isBlog={false}
               title="First Portfolio"
               description="This project was my first portfolio. I made this project using React.js. It was coded on 2021. Long time ago, right? :)"
               ghLink="https://github.com/ErenKarakaya01/CV"
               demoLink="https://sprinkaiportfolio.herokuapp.com/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={chat}
-              isBlog={false}
-              title="Chat App"
-              description="A realtime chat app called SprinkaiChat with MERN Stack. I made this site to improve my coding skills. I used MongoDB technologies and MongoDB Atlas. To use my app just create an account, log in, join a room and chat with other people!"
-              ghLink="https://github.com/ErenKarakaya01/RealtimeChatApp-MERN"
-              demoLink="https://sprinkaichat.herokuapp.com"
             />
           </Col>
         </Row>

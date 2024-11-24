@@ -3,7 +3,6 @@ import { Col, Row } from "react-bootstrap";
 import {
   SiVisualstudiocode,
   SiPostman,
-  SiSlack,
   SiHeroku,
 } from "react-icons/si";
 import { DiGit } from "react-icons/di";
