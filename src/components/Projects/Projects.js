@@ -30,7 +30,6 @@ function Projects() {
               title="Gezilerimiz"
               description="Gezilerimiz is a React-based web application built to showcase travel experiences and stories. This app utilizes Firebase for user authentication, Redux for state management, and various other technologies to bring together a seamless blogging experience. This app was created for my cousin."
               ghLink="https://github.com/ErenKarakaya01/blog-web"
-              demoLink="https://sprinkaiblog.herokuapp.com"
             />
           </Col>
 
@@ -52,7 +51,6 @@ function Projects() {
               title="Chat App"
               description="A realtime chat app called SprinkaiChat with MERN Stack. I made this site to improve my coding skills. I used MongoDB technologies and MongoDB Atlas. To use my app just create an account, log in, join a room and chat with other people!"
               ghLink="https://github.com/ErenKarakaya01/ChatApp"
-              demoLink="https://sprinkaichat.herokuapp.com"
             />
           </Col>
 
@@ -103,7 +101,6 @@ function Projects() {
               title="First Portfolio"
               description="This project was my first portfolio. I made this project using React.js. It was coded on 2021. Long time ago, right? :)"
               ghLink="https://github.com/ErenKarakaya01/CV"
-              demoLink="https://sprinkaiportfolio.herokuapp.com/"
             />
           </Col>
         </Row>

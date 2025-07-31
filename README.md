@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://sprinkaiportfolio2-37e213437152.herokuapp.com/" target="_blank">Portfolio</a>
+  <a href="https://605a847f.portfolio-v2-3ol.pages.dev/" target="_blank">Portfolio</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -10,7 +10,7 @@
 
 ## Built With
 
-My personal <a href="https://sprinkaiportfolio2-37e213437152.herokuapp.com" target="_blank">portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal <a href="https://605a847f.portfolio-v2-3ol.pages.dev/" target="_blank">portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
@@ -19,7 +19,6 @@ This project was built using these technologies.
 - Express.js
 - CSS3
 - VsCode
-- Heroku
 
 ## Features
 
